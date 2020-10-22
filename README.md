@@ -9,9 +9,9 @@ Specifically:
 Industries of interest:
 
 • Streetwear / Fashion  
-• Sports / Gambling 
+• Sports / Gambling  
 • Food  
-• Music 
+• Music  
 • & more, just ask
 
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15)](https://github.com/Griffinw15/github-readme-stats)
