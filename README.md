@@ -1,4 +1,4 @@
-Howdy, I'm Griffin. Connect with me about Python and data science resources!
+Howdy, I'm Griffin. Connect with me about Python and other data science resources!
 
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15)](https://github.com/Griffinw15/github-readme-stats)
 
