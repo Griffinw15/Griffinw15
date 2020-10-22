@@ -2,9 +2,9 @@ Howdy, I'm Griffin and I'm passionate about Data Science
 
 Specifically:
 
-• Exploratory Data Analysis
-• Predictions/Recommendations
-• Making data decisions
+• Exploratory Data Analysis 
+• Predictions/Recommendations 
+• Making data decisions 
 
 Industries of interest:
 
