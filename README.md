@@ -14,6 +14,15 @@ Industries of interest:
 • Music  
 • & more, just ask !!
 
+Past:
+
+• Natural food manufacturing, particularly sales
+• Economics undergrad at San Diego State
+
+Currently:
+
+• Finishing my time at Lambda's Data Science program
+
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15&theme=vue-dark)](https://github.com/Griffinw15/github-readme-stats)
 
 Contact me:
