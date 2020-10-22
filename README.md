@@ -3,17 +3,15 @@ Howdy, I'm Griffin and I'm passionate about Data Science
 Specifically:
 
 • Exploratory Data Analysis
-
 • Predictions/Recommendations
-
 • Making data decisions
 
 Industries of interest:
 
-• Streetwear / Fashion
-• Food
-• Music
-• Sports / Gambling
+• Streetwear / Fashion  
+• Sports / Gambling 
+• Food  
+• Music 
 • & more, just ask
 
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15)](https://github.com/Griffinw15/github-readme-stats)
