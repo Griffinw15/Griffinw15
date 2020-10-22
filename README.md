@@ -1,4 +1,4 @@
-Howdy, I'm Griffin and I'm passionate about Data Science
+Howdy, I'm Griffin and I'm passionate about Data Science 
 
 Specifically:
 
@@ -12,7 +12,7 @@ Industries of interest:
 • Sports / Gambling  
 • Food  
 • Music  
-• & more, just ask
+• & more, just ask !!
 
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15&theme=vue-dark)](https://github.com/Griffinw15/github-readme-stats)
 
