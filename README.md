@@ -14,7 +14,7 @@ Industries of interest:
 • Music  
 • & more, just ask
 
-[![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15)](https://github.com/Griffinw15/github-readme-stats)
+[![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15&theme=vue-dark)](https://github.com/Griffinw15/github-readme-stats)
 
 Contact me:
 
