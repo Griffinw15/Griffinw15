@@ -11,7 +11,8 @@ Industries of interest:
 • Streetwear / Fashion  
 • Sports / Gambling  
 • Food / Beverage 
-• Music & more, just ask !!
+• Music 
+• & more, just ask !!
 
 Past:
 
