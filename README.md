@@ -8,10 +8,10 @@ Specifically:
 
 Industries of interest:
 
-• Streetwear / Fashion  
+• Streetwear / Fashion
 • Sports / Gambling  
-• Food / Beverage 
-• Music 
+• Food / Beverage  
+• Music  
 • & more, just ask !!
 
 Past:
