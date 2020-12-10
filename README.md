@@ -8,7 +8,7 @@ Specifically:
 
 Industries of interest:
 
-• Streetwear / Fashion
+• Streetwear / Fashion  
 • Sports / Gambling  
 • Food / Beverage  
 • Music  
