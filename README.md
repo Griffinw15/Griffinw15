@@ -17,11 +17,13 @@ Industries of interest:
 Past:
 
 • Natural food manufacturing, particularly sales
+
 • Economics undergrad at San Diego State
 
 Currently:
 
 • Just finished my time at Lambda's Data Science program
+
 • Entering job market, feel free to reach out!
 
 
