@@ -10,7 +10,7 @@ Industries of interest:
 
 • Streetwear / Fashion  
 • Sports / Gambling  
-• Food  
+• Food / Beverage
 • Music  
 • & more, just ask !!
 
@@ -21,8 +21,8 @@ Past:
 
 Currently:
 
-• Finishing my time at Lambda's Data Science program
-
+• Just finished my time at Lambda's Data Science program
+• Entering job market, feel free to reach out!
 
 
 [![Griffin's github stats](https://github-readme-stats.vercel.app/api?username=Griffinw15&theme=vue-dark)](https://github.com/Griffinw15/github-readme-stats)
