@@ -1,4 +1,6 @@
-Howdy, I'm Griffin and I'm passionate about Data Science 
+Howdy,
+
+I'm Griffin and I'm passionate about Data Science 
 
 Specifically:
 
